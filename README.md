@@ -48,6 +48,7 @@ I am an AI student with a passion for developing intelligent systems and explori
 Feel free to reach out to me for collaboration or questions!
 
 Email: mendes-fernando@sapo.pt
-LinkedIn: linkedin.com/fernandomeendes
+
+LinkedIn: [linkedin.com/fernandomeendes](https://pt.linkedin.com/in/fernandomeendes)
 
 Thank you for visiting my portfolio!

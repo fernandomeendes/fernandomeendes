@@ -22,12 +22,12 @@ I am an AI student with a passion for developing intelligent systems and explori
 ### Project 1: [Convolutional Neural Network (CNN) for MNIST digit classification]
 - **Description:** Create a convolutional neural network to classify handwritten digits from the MNIST dataset.
 - **Technologies Used:** Jupyter Notebook / Python / NumPy / TensorFlow / Keras / MatPlotLib
-- **Link:** [Link to the project or demo](#)
+- **Link:** [Link to the project](#)
 
 ### Project 2: [Project Name]
 - **Description:** A brief description of this project.
 - **Technologies Used:** List of technologies or programming languages used.
-- **Link:** [Link to the project or demo](#)
+- **Link:** [Link to the project]
 
 ### Project 3: [Project Name]
 - **Description:** A brief description of this project.

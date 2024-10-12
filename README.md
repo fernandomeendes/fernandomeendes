@@ -24,15 +24,13 @@ I am an AI student with a passion for developing intelligent systems and explori
 - **Technologies Used:** Jupyter Notebook / Python / NumPy / TensorFlow / Keras / MatPlotLib
 - **Link:** [Link to the project](#)
 
+
 ### Project 2: [Project Name]
 - **Description:** A brief description of this project.
 - **Technologies Used:** List of technologies or programming languages used.
-- **Link:** [Link to the project]
-
-### Project 3: [Project Name]
-- **Description:** A brief description of this project.
-- **Technologies Used:** List of technologies or programming languages used.
 - **Link:** [Link to the project or demo](#)
+
+- [CNN MNIST Digit Classification Notebook](https://github.com/fernandomeendes/portfolio/blob/92f68fdf20c26edc21592e2ea80f8e0515104b2e/CNN_MNIST_digit_classification.ipynb)
 
 
 ## Technologies Used
